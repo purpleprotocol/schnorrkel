@@ -1,5 +1,5 @@
 [package]
-name = "schnorrkel"
+name = "schnorrkel-purplecoin"
 version = "0.10.2"
 authors = ["Jeff Burdges <jeff@web3.foundation>"]
 readme = "README.md"
